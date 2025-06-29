@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @R4ZXRN3T
 - 👀 I’m interested in programming and gaming as well as reading books
-- 🌱 I’m currently learning to be good at java
+- 🌱 I’m currently learning to be good at rust
 - 💞️ I’m looking to collaborate on a lot of projects when I get better
 - 📫 How to reach me: social account links
 - 😄 Pronouns: he/him
