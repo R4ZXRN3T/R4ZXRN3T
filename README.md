@@ -6,6 +6,7 @@
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: I'm actually really bad at programming
 
+[Full size profile picture](https://github.com/R4ZXRN3T/R4ZXRN3T/blob/main/Space%20Avatar.png)
 <!---
 R4ZXRN3T/R4ZXRN3T is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
